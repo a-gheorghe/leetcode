@@ -1,5 +1,7 @@
 # Leetcode
 
+[Visualizing algorithms ](https://jeremyaguilon.me/blog/visualizing_four_key_interview_algorithms)
+
 Curated List of 100 Leetcode questions by category from https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 Array
